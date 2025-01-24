@@ -1,6 +1,6 @@
 # Bamboo Study for India
 
-This project uses Google Earth Engine (GEE) and geospatial data analysis tools to study tree presence, backscatter, soil, and climate parameters for India. The workflow includes importing, processing, and exporting geospatial datasets to facilitate bamboo-related studies. Additionally, it incorporates a machine learning model for predictive analysis using Random Forest.
+This project uses Google Earth Engine (GEE) and geospatial data analysis tools to model bamboo distribution by using spectral, backscatter, soil, and climate parameters for India. The workflow includes importing, processing, and exporting geospatial datasets to facilitate bamboo-related studies. Additionally, it incorporates a machine learning model for predictive analysis using Random Forest.
 
 ---
 
