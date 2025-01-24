@@ -40,7 +40,7 @@ masked_lc = esa_lc.mask(mask).clip(India_boundary)
     #  Summer median = '2023-03-01 to '2023-05-31'
     #  Winter median = '2023-10-01 to '2023-12-31'
 # Considered bands
-    #
+    # B2 , B3 , B4 , B5 ,B6 B7 , B8 , B8a , B11 , B12
 def maskCloudAndShadows(image):
     cloudProb = image.select('MSK_CLDPRB')
     snowProb = image.select('MSK_SNWPRB')
